@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>GPS device</name>
+	<snippet>Created mar. abr. 18 11:04:28 2023</snippet>
+	<LookAt>
+		<gx:TimeSpan>
+			<begin>2009-06-19T19:45:40Z</begin>
+			<end>2010-01-08T21:16:47Z</end>
+		</gx:TimeSpan>
+		<longitude>-63.224038</longitude>
+		<latitude>-35.614064</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>5451.483435</range>
+	</LookAt>
+	<StyleMap id="waypoint">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#waypoint_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#waypoint_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="waypoint_h">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Style id="waypoint_n">
+		<IconStyle>
+			<Icon>
+				<href>https://maps.google.com/mapfiles/kml/pal4/icon61.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Waypoints</name>
+		<Placemark>
+			<name>Agropiro 1</name>
+			<TimeStamp><when>2009-06-19T19:51:38Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-63.21647200000001,-35.627944,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Agropiro 2</name>
+			<TimeStamp><when>2010-01-08T20:43:29Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-63.21716700000001,-35.628861,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Agrop-Soja 1</name>
+			<TimeStamp><when>2010-01-08T20:44:19Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-63.214333,-35.629667,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Agrop-Soja 2</name>
+			<TimeStamp><when>2010-01-08T20:45:02Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-63.21472200000001,-35.629972,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alfalfa 1</name>
+			<TimeStamp><when>2009-06-19T19:45:40Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-63.214556,-35.626833,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alfalfa 2</name>
+			<TimeStamp><when>2010-01-08T21:10:39Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-63.213306,-35.626972,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alfalfa-Soja 1</name>
+			<TimeStamp><when>2009-06-19T19:47:11Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-63.212722,-35.625111,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alfalfa-Soja 2</name>
+			<TimeStamp><when>2010-01-08T20:41:36Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-63.213167,-35.623944,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alfalfa-Soja 3</name>
+			<TimeStamp><when>2010-01-08T20:59:02Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-63.214083,-35.6305,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alfalfa-Soja 4</name>
+			<TimeStamp><when>2010-01-08T20:59:44Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-63.213833,-35.629778,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LJ2B-S</name>
+			<TimeStamp><when>2010-01-08T21:16:47Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-63.23535300000001,-35.597628,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LJ3 1</name>
+			<TimeStamp><when>2009-06-19T19:50:22Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-63.229222,-35.605444,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LJ3 2</name>
+			<TimeStamp><when>2009-06-19T19:50:51Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-63.231472,-35.603389,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LJ4 1</name>
+			<TimeStamp><when>2009-06-19T19:49:10Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-63.23125,-35.608222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LJ4 2</name>
+			<TimeStamp><when>2009-06-19T19:49:47Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-63.233639,-35.60625,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LJ4rep</name>
+			<TimeStamp><when>2010-01-08T21:15:26Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-63.234389,-35.605347,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LJ9E</name>
+			<TimeStamp><when>2010-01-08T21:13:49Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-63.228267,-35.613869,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>LJ9W</name>
+			<TimeStamp><when>2010-01-08T21:13:00Z</when>
+</TimeStamp>
+			<styleUrl>#waypoint</styleUrl>
+			<Point>
+				<coordinates>-63.223183,-35.607019,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
